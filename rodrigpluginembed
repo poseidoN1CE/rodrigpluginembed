@@ -15,7 +15,7 @@ description:
 `Приходи на набор когда тебе будет удобно!`
 url: 
 color: FF0000
-timestamp: true
+timestamp: false
 footer_image: 
 footer: По всем вопросам и предложениям | Poseidon#6103
 thumbnail: https://cdn.discordapp.com/attachments/824247848726953984/880440326618222672/driving-accelerate.gif
